@@ -49,26 +49,10 @@ Procedure for Load test:
 
 
 Calculation: 
-<br>
-![2-1](https://github.com/user-attachments/assets/f535a97a-1ea6-4cb2-8313-c2747aeee879)
-</br>
-<br>
-![2-2](https://github.com/user-attachments/assets/6182ba70-fe84-40f2-a48d-1253d0006936)
-</br>
-<br>
-![2-3](https://github.com/user-attachments/assets/7b576560-47d6-4a26-816b-c1084f91f4b3)
-</br>
-<br>
-![2-4](https://github.com/user-attachments/assets/93bfd940-8a2f-4701-90cd-d326c6a99e63)
-</br>
 
 
 
  circuit characteristics
-
-  <img width="1016" height="876" alt="Screenshot 2026-03-19 220515" src="https://github.com/user-attachments/assets/bf8ab8f1-709d-4e7c-abc4-f18310101e16" />
-
-  <img width="1107" height="889" alt="Screenshot 2026-03-19 220024" src="https://github.com/user-attachments/assets/d34f0c43-0ced-4480-8810-118f0909b3ff" />
 
  
 Result:
